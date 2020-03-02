@@ -1,0 +1,2 @@
+Dodaj plik do folderu INC w instalacji GLPI.
+Replice this file in INC folder in GLPI installation
